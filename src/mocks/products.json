@@ -1,0 +1,1009 @@
+{
+   "products": [
+    {
+        "id": 50,
+        "title": "Trendy Pink-Tinted Sunglasses",
+        "price": 38,
+        "quantity": 10,
+        "images": [
+            "https://i.imgur.com/0qQBkxX.jpg",
+            "https://i.imgur.com/I5g1DoE.jpg",
+            "https://i.imgur.com/myfFQBW.jpg"
+        ],
+        "creationAt": "2024-04-20T21:29:17.000Z",
+        "updatedAt": "2024-04-20T21:29:17.000Z",
+        "name": "Miscellaneous",
+        "category": {
+            "id": 5,
+            
+            "image": "https://i.imgur.com/BG8J0Fj.jpg",
+            "creationAt": "2024-04-20T21:29:17.000Z",
+            "updatedAt": "2024-04-20T21:29:17.000Z"
+        }
+    },
+      {
+         "id": 1,
+         "title": "Majestic Mountain Graphic T-Shirt",
+         "price": 44,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/QkIa5tT.jpeg",
+             "https://i.imgur.com/jb5Yu0h.jpeg",
+             "https://i.imgur.com/UlxxXyG.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 2,
+         "title": "Classic Red Pullover Hoodie",
+         "price": 10,
+         "quantity": "Elevate your casual wardrobe with our Classic Red Pullover Hoodie. Crafted with a soft cotton blend for ultimate comfort, this vibrant red hoodie features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs for a snug fit. The timeless design ensures easy pairing with jeans or joggers for a relaxed yet stylish look, making it a versatile addition to your everyday attire.",
+         "images": [
+             "https://i.imgur.com/1twoaDy.jpeg",
+             "https://i.imgur.com/FDwQgLy.jpeg",
+             "https://i.imgur.com/kg1ZhhH.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+        "id": 18,
+        "title": "Sleek White & Orange Wireless Gaming Controller",
+        "price": 69,
+        "quantity": 10,
+        "images": [
+            "https://i.imgur.com/ZANVnHE.jpeg",
+            "https://i.imgur.com/Ro5z6Tn.jpeg",
+            "https://i.imgur.com/woA93Li.jpeg"
+        ],
+        "creationAt": "2024-04-20T21:29:17.000Z",
+        "updatedAt": "2024-04-20T21:29:17.000Z",
+        "name": "Electronics",
+        "category": {
+            "id": 2,
+            
+            "image": "https://i.imgur.com/ZANVnHE.jpeg",
+            "creationAt": "2024-04-20T21:29:17.000Z",
+            "updatedAt": "2024-04-20T21:29:17.000Z"
+        }
+    },
+    {
+        "id": 34,
+        "title": "Modern Ergonomic Office Chair",
+        "price": 171,
+        "quantity": 10,
+        "images": [
+            "https://i.imgur.com/3dU0m72.jpeg",
+            "https://i.imgur.com/zPU3EVa.jpeg"
+        ],
+        "creationAt": "2024-04-20T21:29:17.000Z",
+        "updatedAt": "2024-04-20T21:29:17.000Z",
+        "name": "Furniture",
+        "category": {
+            "id": 3,
+            
+            "image": "https://i.imgur.com/Qphac99.jpeg",
+            "creationAt": "2024-04-20T21:29:17.000Z",
+            "updatedAt": "2024-04-20T21:29:17.000Z"
+        }
+    },
+     {
+         "id": 3,
+         "title": "Classic Heather Gray Hoodie",
+         "price": 69,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/cHddUCu.jpeg",
+             "https://i.imgur.com/CFOjAgK.jpeg",
+             "https://i.imgur.com/wbIMMme.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 4,
+         "title": "Classic Grey Hooded Sweatshirt",
+         "price": 90,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/R2PN9Wq.jpeg",
+             "https://i.imgur.com/IvxMPFr.jpeg",
+             "https://i.imgur.com/7eW9nXP.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 5,
+         "title": "Classic Black Hooded Sweatshirt",
+         "price": 79,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/cSytoSD.jpeg",
+             "https://i.imgur.com/WwKucXb.jpeg",
+             "https://i.imgur.com/cE2Dxh9.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 6,
+         "title": "Classic Comfort Fit Joggers",
+         "price": 25,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/ZKGofuB.jpeg",
+             "https://i.imgur.com/GJi73H0.jpeg",
+             "https://i.imgur.com/633Fqrz.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 37,
+         "title": "Chic Summer Denim Espadrille Sandals",
+         "price": 33,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/9qrmE1b.jpeg",
+             "https://i.imgur.com/wqKxBVH.jpeg",
+             "https://i.imgur.com/sWSV6DK.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 7,
+         "title": "Classic Comfort Joggers",
+         "price": 79,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/mp3rUty.jpeg",
+             "https://i.imgur.com/JQRGIc2.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 9,
+         "title": "Classic Navy Blue Baseball Cap",
+         "price": 61,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/R3iobJA.jpeg",
+             "https://i.imgur.com/Wv2KTsf.jpeg",
+             "https://i.imgur.com/76HAxcA.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 10,
+         "title": "Classic Blue Baseball Cap",
+         "price": 84,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/wXuQ7bm.jpeg",
+             "https://i.imgur.com/BZrIEmb.jpeg",
+             "https://i.imgur.com/KcT6BE0.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 13,
+         "title": "Classic Olive Chino Shorts",
+         "price": 114,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/UsFIvYs.jpeg",
+             "https://i.imgur.com/YIq57b6.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 14,
+         "title": "Classic Athletic Shorts",
+         "price": 43,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/eGOUveI.jpeg",
+             "https://i.imgur.com/UcsGO7E.jpeg",
+             "https://i.imgur.com/NLn4e7S.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 15,
+         "title": "Classic White Crew T-Shirt",
+         "price": 39,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/axsyGpD.jpeg",
+             "https://i.imgur.com/T8oq9X2.jpeg",
+             "https://i.imgur.com/J6MinJn.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 16,
+         "title": "Classic White Tee - Timeless Style",
+         "price": 73,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/Y54Bt8J.jpeg",
+             "https://i.imgur.com/SZPDSgy.jpeg",
+             "https://i.imgur.com/sJv4Xx0.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 17,
+         "title": "Classic Black T-Shirt",
+         "price": 35,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/9DqEOV5.jpeg",
+             "https://i.imgur.com/ae0AEYn.jpeg",
+             "https://i.imgur.com/mZ4rUjj.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Clothes",
+         "category": {
+             "id": 1,
+             
+             "image": "https://i.imgur.com/QkIa5tT.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 19,
+         "title": "Sleek Wireless Headphone & Inked Earbud Set",
+         "price": 44,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/yVeIeDa.jpeg",
+             "https://i.imgur.com/jByJ4ih.jpeg",
+             "https://i.imgur.com/KXj6Tpb.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 20,
+         "title": "Sleek Comfort-Fit Over-Ear Headphones",
+         "price": 28,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/SolkFEB.jpeg",
+             "https://i.imgur.com/KIGW49u.jpeg",
+             "https://i.imgur.com/mWwek7p.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 21,
+         "title": "Efficient 2-Slice Toaster",
+         "price": 48,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/keVCVIa.jpeg",
+             "https://i.imgur.com/afHY7v2.jpeg",
+             "https://i.imgur.com/yAOihUe.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 22,
+         "title": "Sleek Wireless Computer Mouse",
+         "price": 10,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/w3Y8NwQ.jpeg",
+             "https://i.imgur.com/WJFOGIC.jpeg",
+             "https://i.imgur.com/dV4Nklf.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 23,
+         "title": "Sleek Modern Laptop with Ambient Lighting",
+         "price": 43,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/OKn1KFI.jpeg",
+             "https://i.imgur.com/G4f21Ai.jpeg",
+             "https://i.imgur.com/Z9oKRVJ.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 24,
+         "title": "Sleek Modern Laptop",
+         "price": 195,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/ItHcq7o.jpeg",
+             "https://i.imgur.com/55GM3XZ.jpeg",
+             "https://i.imgur.com/tcNJxoW.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 25,
+         "title": "Stylish Red & Silver Over-Ear Headphones",
+         "price": 39,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/YaSqa06.jpeg",
+             "https://i.imgur.com/isQAliJ.jpeg",
+             "https://i.imgur.com/5B8UQfh.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 26,
+         "title": "Sleek Mirror Finish Phone Case",
+         "price": 27,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/yb9UQKL.jpeg",
+             "https://i.imgur.com/m2owtQG.jpeg",
+             "https://i.imgur.com/bNiORct.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 27,
+         "title": "Sleek Smartwatch with Vibrant Display",
+         "price": 16,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/LGk9Jn2.jpeg",
+             "https://i.imgur.com/1ttYWaI.jpeg",
+             "https://i.imgur.com/sPRWnJH.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Electronics",
+         "category": {
+             "id": 2,
+             
+             "image": "https://i.imgur.com/ZANVnHE.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 28,
+         "title": "Sleek Modern Leather Sofa",
+         "price": 53,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/Qphac99.jpeg",
+             "https://i.imgur.com/dJjpEgG.jpeg",
+             "https://i.imgur.com/MxJyADq.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Furniture",
+         "category": {
+             "id": 3,
+             
+             "image": "https://i.imgur.com/Qphac99.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 29,
+         "title": "Mid-Century Modern Wooden Dining Table",
+         "price": 24,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/DMQHGA0.jpeg",
+             "https://i.imgur.com/qrs9QBg.jpeg",
+             "https://i.imgur.com/XVp8T1I.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Furniture",
+         "category": {
+             "id": 3,
+             
+             "image": "https://i.imgur.com/Qphac99.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 30,
+         "title": "Elegant Golden-Base Stone Top Dining Table",
+         "price": 66,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/NWIJKUj.jpeg",
+             "https://i.imgur.com/Jn1YSLk.jpeg",
+             "https://i.imgur.com/VNZRvx5.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Furniture",
+         "category": {
+             "id": 3,
+             
+             "image": "https://i.imgur.com/Qphac99.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 31,
+         "title": "Modern Elegance Teal Armchair",
+         "price": 25,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/6wkyyIN.jpeg",
+             "https://i.imgur.com/Ald3Rec.jpeg",
+             "https://i.imgur.com/dIqo03c.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Furniture",
+         "category": {
+             "id": 3,
+             
+             "image": "https://i.imgur.com/Qphac99.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 32,
+         "title": "Elegant Solid Wood Dining Table",
+         "price": 67,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/4lTaHfF.jpeg",
+             "https://i.imgur.com/JktHE1C.jpeg",
+             "https://i.imgur.com/cQeXQMi.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Furniture",
+         "category": {
+             "id": 3,
+             
+             "image": "https://i.imgur.com/Qphac99.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 33,
+         "title": "Modern Minimalist Workstation Setup",
+         "price": 49,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/3oXNBst.jpeg",
+             "https://i.imgur.com/ErYYZnT.jpeg",
+             "https://i.imgur.com/boBPwYW.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Furniture",
+         "category": {
+             "id": 3,
+             
+             "image": "https://i.imgur.com/Qphac99.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 35,
+         "title": "Futuristic Holographic Soccer Cleats",
+         "price": 39,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/qNOjJje.jpeg",
+             "https://i.imgur.com/NjfCFnu.jpeg",
+             "https://i.imgur.com/eYtvXS1.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 36,
+         "title": "Rainbow Glitter High Heels",
+         "price": 39,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/62gGzeF.jpeg",
+             "https://i.imgur.com/5MoPuFM.jpeg",
+             "https://i.imgur.com/sUVj7pK.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 38,
+         "title": "Vibrant Runners: Bold Orange & Blue Sneakers",
+         "price": 27,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/hKcMNJs.jpeg",
+             "https://i.imgur.com/NYToymX.jpeg",
+             "https://i.imgur.com/HiiapCt.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 39,
+         "title": "Vibrant Pink Classic Sneakers",
+         "price": 104,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/mcW42Gi.jpeg",
+             "https://i.imgur.com/mhn7qsF.jpeg",
+             "https://i.imgur.com/F8vhnFJ.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 40,
+         "title": "Futuristic Silver and Gold High-Top Sneaker",
+         "price": 68,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/npLfCGq.jpeg",
+             "https://i.imgur.com/vYim3gj.jpeg",
+             "https://i.imgur.com/HxuHwBO.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 41,
+         "title": "Futuristic Chic High-Heel Boots",
+         "price": 36,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/HqYqLnW.jpeg",
+             "https://i.imgur.com/RlDGnZw.jpeg",
+             "https://i.imgur.com/qa0O6fg.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 42,
+         "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
+         "price": 53,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/AzAY4Ed.jpeg",
+             "https://i.imgur.com/umfnS9P.jpeg",
+             "https://i.imgur.com/uFyuvLg.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 43,
+         "title": "Elegant Purple Leather Loafers",
+         "price": 17,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/Au8J9sX.jpeg",
+             "https://i.imgur.com/gdr8BW2.jpeg",
+             "https://i.imgur.com/KDCZxnJ.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 44,
+         "title": "Classic Blue Suede Casual Shoes",
+         "price": 39,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/sC0ztOB.jpeg",
+             "https://i.imgur.com/Jf9DL9R.jpeg",
+             "https://i.imgur.com/R1IN95T.jpeg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Shoes",
+         "category": {
+             "id": 4,
+             
+             "image": "https://i.imgur.com/qNOjJje.jpeg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 45,
+         "title": "Sleek Futuristic Electric Bicycle",
+         "price": 22,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/BG8J0Fj.jpg",
+             "https://i.imgur.com/ujHBpCX.jpg",
+             "https://i.imgur.com/WHeVL9H.jpg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Miscellaneous",
+         "category": {
+             "id": 5,
+             
+             "image": "https://i.imgur.com/BG8J0Fj.jpg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 46,
+         "title": "Sleek All-Terrain Go-Kart",
+         "price": 37,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/Ex5x3IU.jpg",
+             "https://i.imgur.com/z7wAQwe.jpg",
+             "https://i.imgur.com/kc0Dj9S.jpg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Miscellaneous",
+         "category": {
+             "id": 5,
+             
+             "image": "https://i.imgur.com/BG8J0Fj.jpg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 47,
+         "title": "Radiant Citrus Eau de Parfum",
+         "price": 113,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/xPDwUb3.jpg",
+             "https://i.imgur.com/3rfp691.jpg",
+             "https://i.imgur.com/kG05a29.jpg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Miscellaneous",
+         "category": {
+             "id": 5,
+             
+             "image": "https://i.imgur.com/BG8J0Fj.jpg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 48,
+         "title": "Sleek Olive Green Hardshell Carry-On Luggage",
+         "price": 48,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/jVfoZnP.jpg",
+             "https://i.imgur.com/Tnl15XK.jpg",
+             "https://i.imgur.com/7OqTPO6.jpg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Miscellaneous",
+         "category": {
+             "id": 5,
+             
+             "image": "https://i.imgur.com/BG8J0Fj.jpg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 49,
+         "title": "Chic Transparent Fashion Handbag",
+         "price": 61,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/Lqaqz59.jpg",
+             "https://i.imgur.com/uSqWK0m.jpg",
+             "https://i.imgur.com/atWACf1.jpg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Miscellaneous",
+         "category": {
+             "id": 5,
+             
+             "image": "https://i.imgur.com/BG8J0Fj.jpg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     },
+     {
+         "id": 51,
+         "title": "Elegant Glass Tumbler Set",
+         "price": 50,
+         "quantity": 10,
+         "images": [
+             "https://i.imgur.com/TF0pXdL.jpg",
+             "https://i.imgur.com/BLDByXP.jpg",
+             "https://i.imgur.com/b7trwCv.jpg"
+         ],
+         "creationAt": "2024-04-20T21:29:17.000Z",
+         "updatedAt": "2024-04-20T21:29:17.000Z",
+         "name": "Miscellaneous",
+         "category": {
+             "id": 5,
+             
+             "image": "https://i.imgur.com/BG8J0Fj.jpg",
+             "creationAt": "2024-04-20T21:29:17.000Z",
+             "updatedAt": "2024-04-20T21:29:17.000Z"
+         }
+     }
+   ]
+}

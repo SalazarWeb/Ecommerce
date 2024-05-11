@@ -1,0 +1,17 @@
+.filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.filters > div {
+    display: flex;
+    gap: 1rem;
+}
+
+.filters > div > select {
+    font-size: 15px;
+    font-weight: 600;
+}

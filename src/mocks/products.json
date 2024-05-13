@@ -8,18 +8,9 @@
         "images": [
             "https://i.imgur.com/0qQBkxX.jpg",
             "https://i.imgur.com/I5g1DoE.jpg",
-            "https://i.imgur.com/myfFQBW.jpg"
-        ],
-        "creationAt": "2024-04-20T21:29:17.000Z",
-        "updatedAt": "2024-04-20T21:29:17.000Z",
-        "name": "Miscellaneous",
-        "category": {
-            "id": 5,
-            
-            "image": "https://i.imgur.com/BG8J0Fj.jpg",
-            "creationAt": "2024-04-20T21:29:17.000Z",
-            "updatedAt": "2024-04-20T21:29:17.000Z"
-        }
+            "https://i.imgur.com/myfFQBW.jpg"],
+        
+        "name": "Miscellaneous"
     },
       {
          "id": 1,
@@ -31,16 +22,8 @@
              "https://i.imgur.com/jb5Yu0h.jpeg",
              "https://i.imgur.com/UlxxXyG.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 2,
@@ -52,16 +35,8 @@
              "https://i.imgur.com/FDwQgLy.jpeg",
              "https://i.imgur.com/kg1ZhhH.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
         "id": 18,
@@ -71,18 +46,9 @@
         "images": [
             "https://i.imgur.com/ZANVnHE.jpeg",
             "https://i.imgur.com/Ro5z6Tn.jpeg",
-            "https://i.imgur.com/woA93Li.jpeg"
-        ],
-        "creationAt": "2024-04-20T21:29:17.000Z",
-        "updatedAt": "2024-04-20T21:29:17.000Z",
-        "name": "Electronics",
-        "category": {
-            "id": 2,
-            
-            "image": "https://i.imgur.com/ZANVnHE.jpeg",
-            "creationAt": "2024-04-20T21:29:17.000Z",
-            "updatedAt": "2024-04-20T21:29:17.000Z"
-        }
+            "https://i.imgur.com/woA93Li.jpeg"],
+        
+        "name": "Electronics"
     },
     {
         "id": 34,
@@ -91,18 +57,9 @@
         "quantity": 10,
         "images": [
             "https://i.imgur.com/3dU0m72.jpeg",
-            "https://i.imgur.com/zPU3EVa.jpeg"
-        ],
-        "creationAt": "2024-04-20T21:29:17.000Z",
-        "updatedAt": "2024-04-20T21:29:17.000Z",
-        "name": "Furniture",
-        "category": {
-            "id": 3,
-            
-            "image": "https://i.imgur.com/Qphac99.jpeg",
-            "creationAt": "2024-04-20T21:29:17.000Z",
-            "updatedAt": "2024-04-20T21:29:17.000Z"
-        }
+            "https://i.imgur.com/zPU3EVa.jpeg"],
+        
+        "name": "Furniture"
     },
      {
          "id": 3,
@@ -114,17 +71,8 @@
              "https://i.imgur.com/CFOjAgK.jpeg",
              "https://i.imgur.com/wbIMMme.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
-     },
+         "name": "Clothes"
+    },
      {
          "id": 4,
          "title": "Classic Grey Hooded Sweatshirt",
@@ -135,16 +83,8 @@
              "https://i.imgur.com/IvxMPFr.jpeg",
              "https://i.imgur.com/7eW9nXP.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 5,
@@ -156,16 +96,8 @@
              "https://i.imgur.com/WwKucXb.jpeg",
              "https://i.imgur.com/cE2Dxh9.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 6,
@@ -177,16 +109,8 @@
              "https://i.imgur.com/GJi73H0.jpeg",
              "https://i.imgur.com/633Fqrz.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 37,
@@ -198,16 +122,8 @@
              "https://i.imgur.com/wqKxBVH.jpeg",
              "https://i.imgur.com/sWSV6DK.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 7,
@@ -218,16 +134,8 @@
              "https://i.imgur.com/mp3rUty.jpeg",
              "https://i.imgur.com/JQRGIc2.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 9,
@@ -239,16 +147,8 @@
              "https://i.imgur.com/Wv2KTsf.jpeg",
              "https://i.imgur.com/76HAxcA.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 10,
@@ -260,16 +160,8 @@
              "https://i.imgur.com/BZrIEmb.jpeg",
              "https://i.imgur.com/KcT6BE0.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 13,
@@ -280,16 +172,8 @@
              "https://i.imgur.com/UsFIvYs.jpeg",
              "https://i.imgur.com/YIq57b6.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 14,
@@ -301,16 +185,8 @@
              "https://i.imgur.com/UcsGO7E.jpeg",
              "https://i.imgur.com/NLn4e7S.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 15,
@@ -322,16 +198,8 @@
              "https://i.imgur.com/T8oq9X2.jpeg",
              "https://i.imgur.com/J6MinJn.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 16,
@@ -343,16 +211,8 @@
              "https://i.imgur.com/SZPDSgy.jpeg",
              "https://i.imgur.com/sJv4Xx0.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 17,
@@ -364,16 +224,8 @@
              "https://i.imgur.com/ae0AEYn.jpeg",
              "https://i.imgur.com/mZ4rUjj.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Clothes",
-         "category": {
-             "id": 1,
-             
-             "image": "https://i.imgur.com/QkIa5tT.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Clothes"
+
      },
      {
          "id": 19,
@@ -385,16 +237,7 @@
              "https://i.imgur.com/jByJ4ih.jpeg",
              "https://i.imgur.com/KXj6Tpb.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 20,
@@ -406,16 +249,7 @@
              "https://i.imgur.com/KIGW49u.jpeg",
              "https://i.imgur.com/mWwek7p.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 21,
@@ -427,16 +261,7 @@
              "https://i.imgur.com/afHY7v2.jpeg",
              "https://i.imgur.com/yAOihUe.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 22,
@@ -448,16 +273,7 @@
              "https://i.imgur.com/WJFOGIC.jpeg",
              "https://i.imgur.com/dV4Nklf.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 23,
@@ -469,16 +285,7 @@
              "https://i.imgur.com/G4f21Ai.jpeg",
              "https://i.imgur.com/Z9oKRVJ.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 24,
@@ -490,16 +297,7 @@
              "https://i.imgur.com/55GM3XZ.jpeg",
              "https://i.imgur.com/tcNJxoW.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 25,
@@ -511,16 +309,7 @@
              "https://i.imgur.com/isQAliJ.jpeg",
              "https://i.imgur.com/5B8UQfh.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 26,
@@ -532,16 +321,7 @@
              "https://i.imgur.com/m2owtQG.jpeg",
              "https://i.imgur.com/bNiORct.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 27,
@@ -553,16 +333,7 @@
              "https://i.imgur.com/1ttYWaI.jpeg",
              "https://i.imgur.com/sPRWnJH.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Electronics",
-         "category": {
-             "id": 2,
-             
-             "image": "https://i.imgur.com/ZANVnHE.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Electronics"
      },
      {
          "id": 28,
@@ -574,16 +345,7 @@
              "https://i.imgur.com/dJjpEgG.jpeg",
              "https://i.imgur.com/MxJyADq.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Furniture",
-         "category": {
-             "id": 3,
-             
-             "image": "https://i.imgur.com/Qphac99.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Furniture"
      },
      {
          "id": 29,
@@ -595,16 +357,7 @@
              "https://i.imgur.com/qrs9QBg.jpeg",
              "https://i.imgur.com/XVp8T1I.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Furniture",
-         "category": {
-             "id": 3,
-             
-             "image": "https://i.imgur.com/Qphac99.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Furniture"
      },
      {
          "id": 30,
@@ -616,16 +369,7 @@
              "https://i.imgur.com/Jn1YSLk.jpeg",
              "https://i.imgur.com/VNZRvx5.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Furniture",
-         "category": {
-             "id": 3,
-             
-             "image": "https://i.imgur.com/Qphac99.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Furniture"
      },
      {
          "id": 31,
@@ -637,16 +381,7 @@
              "https://i.imgur.com/Ald3Rec.jpeg",
              "https://i.imgur.com/dIqo03c.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Furniture",
-         "category": {
-             "id": 3,
-             
-             "image": "https://i.imgur.com/Qphac99.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Furniture"
      },
      {
          "id": 32,
@@ -658,16 +393,7 @@
              "https://i.imgur.com/JktHE1C.jpeg",
              "https://i.imgur.com/cQeXQMi.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Furniture",
-         "category": {
-             "id": 3,
-             
-             "image": "https://i.imgur.com/Qphac99.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Furniture"
      },
      {
          "id": 33,
@@ -679,16 +405,7 @@
              "https://i.imgur.com/ErYYZnT.jpeg",
              "https://i.imgur.com/boBPwYW.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Furniture",
-         "category": {
-             "id": 3,
-             
-             "image": "https://i.imgur.com/Qphac99.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Furniture"
      },
      {
          "id": 35,
@@ -700,16 +417,8 @@
              "https://i.imgur.com/NjfCFnu.jpeg",
              "https://i.imgur.com/eYtvXS1.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 36,
@@ -721,16 +430,8 @@
              "https://i.imgur.com/5MoPuFM.jpeg",
              "https://i.imgur.com/sUVj7pK.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 38,
@@ -742,16 +443,8 @@
              "https://i.imgur.com/NYToymX.jpeg",
              "https://i.imgur.com/HiiapCt.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 39,
@@ -763,16 +456,8 @@
              "https://i.imgur.com/mhn7qsF.jpeg",
              "https://i.imgur.com/F8vhnFJ.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 40,
@@ -784,16 +469,8 @@
              "https://i.imgur.com/vYim3gj.jpeg",
              "https://i.imgur.com/HxuHwBO.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 41,
@@ -805,16 +482,8 @@
              "https://i.imgur.com/RlDGnZw.jpeg",
              "https://i.imgur.com/qa0O6fg.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 42,
@@ -826,16 +495,8 @@
              "https://i.imgur.com/umfnS9P.jpeg",
              "https://i.imgur.com/uFyuvLg.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 43,
@@ -847,16 +508,8 @@
              "https://i.imgur.com/gdr8BW2.jpeg",
              "https://i.imgur.com/KDCZxnJ.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 44,
@@ -868,16 +521,8 @@
              "https://i.imgur.com/Jf9DL9R.jpeg",
              "https://i.imgur.com/R1IN95T.jpeg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Shoes",
-         "category": {
-             "id": 4,
-             
-             "image": "https://i.imgur.com/qNOjJje.jpeg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Shoes"
+
      },
      {
          "id": 45,
@@ -889,16 +534,7 @@
              "https://i.imgur.com/ujHBpCX.jpg",
              "https://i.imgur.com/WHeVL9H.jpg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Miscellaneous",
-         "category": {
-             "id": 5,
-             
-             "image": "https://i.imgur.com/BG8J0Fj.jpg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Miscellaneous"
      },
      {
          "id": 46,
@@ -910,16 +546,7 @@
              "https://i.imgur.com/z7wAQwe.jpg",
              "https://i.imgur.com/kc0Dj9S.jpg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Miscellaneous",
-         "category": {
-             "id": 5,
-             
-             "image": "https://i.imgur.com/BG8J0Fj.jpg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Miscellaneous"
      },
      {
          "id": 47,
@@ -931,16 +558,7 @@
              "https://i.imgur.com/3rfp691.jpg",
              "https://i.imgur.com/kG05a29.jpg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Miscellaneous",
-         "category": {
-             "id": 5,
-             
-             "image": "https://i.imgur.com/BG8J0Fj.jpg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Miscellaneous"
      },
      {
          "id": 48,
@@ -952,16 +570,7 @@
              "https://i.imgur.com/Tnl15XK.jpg",
              "https://i.imgur.com/7OqTPO6.jpg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Miscellaneous",
-         "category": {
-             "id": 5,
-             
-             "image": "https://i.imgur.com/BG8J0Fj.jpg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Miscellaneous"
      },
      {
          "id": 49,
@@ -973,16 +582,7 @@
              "https://i.imgur.com/uSqWK0m.jpg",
              "https://i.imgur.com/atWACf1.jpg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Miscellaneous",
-         "category": {
-             "id": 5,
-             
-             "image": "https://i.imgur.com/BG8J0Fj.jpg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Miscellaneous"
      },
      {
          "id": 51,
@@ -994,16 +594,7 @@
              "https://i.imgur.com/BLDByXP.jpg",
              "https://i.imgur.com/b7trwCv.jpg"
          ],
-         "creationAt": "2024-04-20T21:29:17.000Z",
-         "updatedAt": "2024-04-20T21:29:17.000Z",
-         "name": "Miscellaneous",
-         "category": {
-             "id": 5,
-             
-             "image": "https://i.imgur.com/BG8J0Fj.jpg",
-             "creationAt": "2024-04-20T21:29:17.000Z",
-             "updatedAt": "2024-04-20T21:29:17.000Z"
-         }
+         "name": "Miscellaneous"
      }
    ]
 }

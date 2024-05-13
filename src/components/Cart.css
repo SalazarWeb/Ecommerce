@@ -8,7 +8,7 @@
     width: 200px;
     overflow-y: scroll;
     overscroll-behavior: contain;
-    max-height: 90%;
+    max-height: 95%;
 }
 
 .cart img {
@@ -61,5 +61,9 @@
 @media screen and (max-width:600px) {
     .cart {
         width: 100px;
+    }
+
+    .cart li div {
+        font-size: 14px;
     }
 }
